@@ -1,0 +1,33 @@
+{'profit': 6.289951158873645, 'fastlen': 120, 'slowlen': 158, 'signallen': 181, 'close_fastlen': 10, 'close_slowlen': 79, 'close_signallen': 10, 'topfilter': -9999, 'botfilter': -100, 'stop_loss': 100, 'percent': 0.15}
+{'profit': 7.284375829412374, 'fastlen': 123, 'slowlen': 193, 'signallen': 141, 'close_fastlen': 6, 'close_slowlen': 110, 'close_signallen': 13, 'topfilter': -9999, 'botfilter': -100, 'stop_loss': 100, 'percent': 0.15}
+{'profit': 5.9473072016516255, 'fastlen': 142, 'slowlen': 147, 'signallen': 161, 'close_fastlen': 19, 'close_slowlen': 91, 'close_signallen': 4, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 100, 'percent': 0.15}
+
+{'profit': 3.4620394121739024, 'fastlen': 66, 'slowlen': 111, 'signallen': 84, 'close_fastlen': 1, 'close_slowlen': 79, 'close_signallen': 61, 'topfilter': -400, 'botfilter': -100, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 4.427311239536864, 'fastlen': 47, 'slowlen': 151, 'signallen': 101, 'close_fastlen': 13, 'close_slowlen': 83, 'close_signallen': 9, 'topfilter': -200, 'botfilter': -200, 'stop_loss': 400, 'percent': 0.15}
+{'profit': 5.400044696555431, 'fastlen': 53, 'slowlen': 69, 'signallen': 72, 'close_fastlen': 1, 'close_slowlen': 98, 'close_signallen': 5, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 4.663477771921666, 'fastlen': 62, 'slowlen': 101, 'signallen': 56, 'close_fastlen': 1, 'close_slowlen': 98, 'close_signallen': 5, 'topfilter': -9999, 'botfilter': -200, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 3.7740486366968824, 'fastlen': 64, 'slowlen': 136, 'signallen': 58, 'close_fastlen': 1, 'close_slowlen': 148, 'close_signallen': 24, 'topfilter': -1000, 'botfilter': -100, 'stop_loss': 400, 'percent': 0.15}
+{'profit': 4.568051586151487, 'fastlen': 102, 'slowlen': 199, 'signallen': 141, 'close_fastlen': 18, 'close_slowlen': 114, 'close_signallen': 3, 'topfilter': -9999, 'botfilter': 0, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.9016652571342325, 'fastlen': 182, 'slowlen': 184, 'signallen': 99, 'close_fastlen': 1, 'close_slowlen': 39, 'close_signallen': 121, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.40273249042234, 'fastlen': 58, 'slowlen': 164, 'signallen': 78, 'close_fastlen': 66, 'close_slowlen': 68, 'close_signallen': 3, 'topfilter': -9999, 'botfilter': -200, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.400669945594995, 'fastlen': 98, 'slowlen': 137, 'signallen': 52, 'close_fastlen': 1, 'close_slowlen': 90, 'close_signallen': 61, 'topfilter': -200, 'botfilter': -100, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 4.680453477447759, 'fastlen': 121, 'slowlen': 160, 'signallen': 141, 'close_fastlen': 1, 'close_slowlen': 59, 'close_signallen': 41, 'topfilter': -9999, 'botfilter': -100, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 6.419171341801389, 'fastlen': 81, 'slowlen': 211, 'signallen': 167, 'close_fastlen': 1, 'close_slowlen': 39, 'close_signallen': 121, 'topfilter': 0, 'botfilter': 0, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.512449986514063, 'fastlen': 63, 'slowlen': 159, 'signallen': 74, 'close_fastlen': 2, 'close_slowlen': 6, 'close_signallen': 19, 'topfilter': -9999, 'botfilter': -400, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 4.524978473578855, 'fastlen': 41, 'slowlen': 127, 'signallen': 39, 'close_fastlen': 1, 'close_slowlen': 17, 'close_signallen': 19, 'topfilter': -9999, 'botfilter': -300, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 3.00897419768396, 'fastlen': 71, 'slowlen': 118, 'signallen': 61, 'close_fastlen': 2, 'close_slowlen': 57, 'close_signallen': 93, 'topfilter': -9999, 'botfilter': -100, 'stop_loss': 500, 'percent': 0.15}
+{'profit': 5.663361195233623, 'fastlen': 101, 'slowlen': 181, 'signallen': 181, 'close_fastlen': 2, 'close_slowlen': 192, 'close_signallen': 18, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 3.199886487470878, 'fastlen': 42, 'slowlen': 183, 'signallen': 100, 'close_fastlen': 4, 'close_slowlen': 81, 'close_signallen': 29, 'topfilter': 100, 'botfilter': -200, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.9130928269743954, 'fastlen': 120, 'slowlen': 158, 'signallen': 181, 'close_fastlen': 1, 'close_slowlen': 119, 'close_signallen': 25, 'topfilter': -9999, 'botfilter': -100, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 5.718177249165452, 'fastlen': 100, 'slowlen': 183, 'signallen': 181, 'close_fastlen': 5, 'close_slowlen': 99, 'close_signallen': 16, 'topfilter': -9999, 'botfilter': -200, 'stop_loss': 300, 'percent': 0.15}
+
+{'profit': 2.1076469261196955, 'fastlen': 82, 'slowlen': 89, 'signallen': 81, 'close_fastlen': 10, 'close_slowlen': 18, 'close_signallen': 23, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 2.3975493469848854, 'fastlen': 92, 'slowlen': 93, 'signallen': 68, 'close_fastlen': 1, 'close_slowlen': 91, 'close_signallen': 61, 'topfilter': -400, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.460187528271742, 'fastlen': 69, 'slowlen': 95, 'signallen': 91, 'close_fastlen': 27, 'close_slowlen': 95, 'close_signallen': 3, 'topfilter': 0, 'botfilter': -100, 'stop_loss': 300, 'percent': 0.15}
+
+
+{'profit': 2.5931627741201964, 'fastlen': 72, 'slowlen': 90, 'signallen': 91, 'close_fastlen': 1, 'close_slowlen': 91, 'close_signallen': 61, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 2.2653600539200602, 'fastlen': 73, 'slowlen': 90, 'signallen': 91, 'close_fastlen': 9, 'close_slowlen': 90, 'close_signallen': 11, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+
+{'profit': 3.142654189543471, 'fastlen': 71, 'slowlen': 74, 'signallen': 64, 'close_fastlen': 1, 'close_slowlen': 98, 'close_signallen': 5, 'topfilter': -500, 'botfilter': -9999, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 2.889284139796553, 'fastlen': 72, 'slowlen': 80, 'signallen': 92, 'close_fastlen': 9, 'close_slowlen': 94, 'close_signallen': 12, 'topfilter': -9999, 'botfilter': 0, 'stop_loss': 300, 'percent': 0.15}

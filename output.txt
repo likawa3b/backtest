@@ -1,0 +1,10 @@
+{'profit': 2.1076469261196955, 'fastlen': 82, 'slowlen': 89, 'signallen': 81, 'close_fastlen': 10, 'close_slowlen': 18, 'close_signallen': 23, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 1.8870453135997955, 'fastlen': 72, 'slowlen': 83, 'signallen': 71, 'close_fastlen': 10, 'close_slowlen': 89, 'close_signallen': 10, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 500, 'percent': 0.15}
+{'profit': 0, 'fastlen': 16, 'slowlen': 30, 'signallen': 9, 'close_fastlen': 16, 'close_slowlen': 30, 'close_signallen': 21, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.142654189543471, 'fastlen': 71, 'slowlen': 74, 'signallen': 64, 'close_fastlen': 1, 'close_slowlen': 98, 'close_signallen': 5, 'topfilter': -500, 'botfilter': -9999, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 2.889284139796553, 'fastlen': 72, 'slowlen': 80, 'signallen': 92, 'close_fastlen': 9, 'close_slowlen': 94, 'close_signallen': 12, 'topfilter': -9999, 'botfilter': 0, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 2.3975493469848854, 'fastlen': 92, 'slowlen': 93, 'signallen': 68, 'close_fastlen': 1, 'close_slowlen': 91, 'close_signallen': 61, 'topfilter': -400, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 2.5931627741201964, 'fastlen': 72, 'slowlen': 90, 'signallen': 91, 'close_fastlen': 1, 'close_slowlen': 91, 'close_signallen': 61, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 0.8600225195690875, 'fastlen': 6, 'slowlen': 27, 'signallen': 12, 'close_fastlen': 1, 'close_slowlen': 27, 'close_signallen': 6, 'topfilter': -9999, 'botfilter': 700, 'stop_loss': 200, 'percent': 0.15}
+{'profit': 2.2653600539200602, 'fastlen': 73, 'slowlen': 90, 'signallen': 91, 'close_fastlen': 9, 'close_slowlen': 90, 'close_signallen': 11, 'topfilter': -9999, 'botfilter': -9999, 'stop_loss': 300, 'percent': 0.15}
+{'profit': 3.460187528271742, 'fastlen': 69, 'slowlen': 95, 'signallen': 91, 'close_fastlen': 27, 'close_slowlen': 95, 'close_signallen': 3, 'topfilter': 0, 'botfilter': -100, 'stop_loss': 300, 'percent': 0.15}
